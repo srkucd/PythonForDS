@@ -1,6 +1,8 @@
 # PythonForDS
 Full mark coursework of Python for Data Science.
 
+After I graduate, I am adding my own data visualisation and machine learning report weekly.
+
 If you cannot open it via github itself(""Sorry, something went wrong. Reload?" ), please try the method below:
 
 1: Open "https://nbviewer.jupyter.org/"
